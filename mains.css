@@ -4,4 +4,11 @@
     color: #fff;
     font-weight: 600;
     padding: 8px;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+}
+
+a{
+    color: #dadada;
 }
